@@ -43,19 +43,6 @@ npm run dev
 npm run build
 ```
 
-## Project Structure
-
-```
-src/
-├── components/          # Reusable components
-├── pages/              # Page components
-├── data/               # Product data and constants
-├── types/              # TypeScript type definitions
-├── App.tsx             # Main app component
-├── main.tsx            # App entry point
-└── index.css           # Global styles
-```
-
 ## Products Categories
 
 - Rectifiers
@@ -69,10 +56,14 @@ src/
 - Cables
 - Sockets
 - Water Heaters
-- Water Pumps
 - Motors
 - UPS
 
 ## License
 
 MIT License
+## Name:Vattikuti Kavya
+## Linkedin Profile:https://www.linkedin.com/in/vattikuti-kavya-a4b09226a/
+## github Profile: https://github.com/Kavya0924
+## Live demo:https://drive.google.com/file/d/1H4pq1bCYWj76ZjVBi7iQBziXJCcfQNok/view?usp=drive_link
+- Water Pumps
